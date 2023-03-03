@@ -1,4 +1,5 @@
 # VBA Homework: The VBA of Wall Street
+Below is the task at hand. Please see attached for the results, the VBA script, and excel files of stock data.
 
 ## Background
 
